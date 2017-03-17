@@ -8,7 +8,6 @@
 * gulp-imagemin@3.1.1 ( [Download](https://www.npmjs.com/package/gulp-imagemin) )
 * gulp-sass@3.1.0 ( [Download](https://www.npmjs.com/package/gulp-sass) )
 * gulp-uglify@2.1.0 ( [Download](https://www.npmjs.com/package/gulp-uglify) )
-* gulp-watch@4.3.11 ( [Download](https://www.npmjs.com/package/gulp-watch))
 * pump@1.0.2 ( [Download](https://www.npmjs.com/package/pump) )
 * gulp-copy@1.0.0 ( [Download](https://www.npmjs.com/package/gulp-copy) )
 > There are no modules in the project. You need to download these modules.

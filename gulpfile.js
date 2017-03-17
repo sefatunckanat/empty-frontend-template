@@ -5,7 +5,6 @@ var browserSync = require("browser-sync").create();
 var imagemin = require("gulp-imagemin");
 var uglify = require('gulp-uglify');
 var pump = require('pump');
-var watch = require('gulp-watch');
 var gulpCopy = require("gulp-copy");
 
 var sassOptions = {
