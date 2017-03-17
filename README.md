@@ -1,6 +1,6 @@
-#Empty Frontend Web Template
+Empty Frontend Web Template
 
-####npm package list
+# npm package list
 
 * browser-sync@2.18.8 ( [Download](https://www.npmjs.com/package/browser-sync) )
 * gulp@3.9.1 ( [Download](https://www.npmjs.com/package/gulp) )
@@ -13,7 +13,7 @@
 * gulp-copy@1.0.0 ( [Download](https://www.npmjs.com/package/gulp-copy) )
 > There are no modules in the project. You need to download these modules.
 
-####Javascript & CSS plugins
+## Javascript & CSS plugins
 * Normalize.css
 * Fancybox
 * Jquery
@@ -22,5 +22,5 @@
 * shutUp.js
 * Sweet Alert 2
 * Font Awesome
-####Usage
+## Usage
     gulp watch
