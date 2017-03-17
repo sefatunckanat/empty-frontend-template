@@ -1,6 +1,6 @@
-Empty Frontend Web Template
+# Empty Frontend Web Template
 
-# npm package list
+## npm package list
 
 * browser-sync@2.18.8 ( [Download](https://www.npmjs.com/package/browser-sync) )
 * gulp@3.9.1 ( [Download](https://www.npmjs.com/package/gulp) )
