@@ -1,0 +1,1 @@
+$(function(){$("img").on("dragstart",function(n){n.preventDefault()})});
