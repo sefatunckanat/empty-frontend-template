@@ -22,5 +22,6 @@
 * shutUp.js
 * Sweet Alert 2
 * Font Awesome
+* Selectize
 ## Usage
     gulp watch
