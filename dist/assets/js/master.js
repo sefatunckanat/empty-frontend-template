@@ -1,1 +1,1 @@
-$(function(){$("img").on("dragstart",function(n){n.preventDefault()})});
+$(function(){$("img").on("dragstart",function(e){e.preventDefault()}),$("select").selectize()});
