@@ -2,6 +2,7 @@ var gulp = require("gulp");
 var sass = require("gulp-sass");
 var autoprefixer = require("gulp-autoprefixer");
 var browserSync = require("browser-sync").create();
+var reload = browserSync.reload;
 var imagemin = require("gulp-imagemin");
 var uglify = require('gulp-uglify');
 var pump = require('pump');
@@ -17,6 +18,7 @@ var autoprefixerOptions = {
 };
 
 gulp.task("watch",["browserSync","sass"],function () {
+  gulp.watch("src/**/*.html").on("change",reload);
   gulp.watch("src/*.html",["html"]);
   gulp.watch("src/sass/**/*.sass",["sass"]);
   gulp.watch("src/js/**/*.js",["compress"]);
