@@ -5,11 +5,11 @@
 * browser-sync@2.18.8
 * gulp@3.9.1
 * gulp-autoprefixer@3.1.1
-* gulp-imagemin@3.1.1 ( [Download](https://www.npmjs.com/package/gulp-imagemin) )
-* gulp-sass@3.1.0 ( [Download](https://www.npmjs.com/package/gulp-sass) )
-* gulp-uglify@2.1.0 ( [Download](https://www.npmjs.com/package/gulp-uglify) )
-* pump@1.0.2 ( [Download](https://www.npmjs.com/package/pump) )
-* gulp-copy@1.0.0 ( [Download](https://www.npmjs.com/package/gulp-copy) )
+* gulp-imagemin@3.1.1
+* gulp-sass@3.1.0
+* gulp-uglify@2.1.0
+* pump@1.0.2
+* gulp-copy@1.0.0
 > There are no modules in the project. You need to download these modules.
 
 ## Javascript & CSS plugins
