@@ -2,9 +2,9 @@
 
 ## npm package list
 
-* browser-sync@2.18.8 ( [Download](https://www.npmjs.com/package/browser-sync) )
-* gulp@3.9.1 ( [Download](https://www.npmjs.com/package/gulp) )
-* gulp-autoprefixer@3.1.1 ( [Download](https://www.npmjs.com/package/autoprefixer) )
+* browser-sync@2.18.8
+* gulp@3.9.1
+* gulp-autoprefixer@3.1.1
 * gulp-imagemin@3.1.1 ( [Download](https://www.npmjs.com/package/gulp-imagemin) )
 * gulp-sass@3.1.0 ( [Download](https://www.npmjs.com/package/gulp-sass) )
 * gulp-uglify@2.1.0 ( [Download](https://www.npmjs.com/package/gulp-uglify) )
@@ -23,5 +23,8 @@
 * Sweet Alert 2
 * Font Awesome
 * Selectize
+
+## Installing
+    npm install
 ## Usage
     gulp watch
