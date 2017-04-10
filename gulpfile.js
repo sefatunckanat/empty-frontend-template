@@ -20,8 +20,10 @@ var autoprefixerOptions = {
 gulp.task("watch",["browserSync","sass"],function () {
   gulp.watch("src/*.html",["html"]);
   gulp.watch("src/sass/**/*.sass",["sass"]);
-  gulp.watch("src/js/**/*.js",["compress"]);
+  //gulp.watch("src/js/**/*.js",["compress"]);
   gulp.watch("src/images/**",["imagemin"]);
+  gulp.watch("src/**/*.png").on("change",reload);
+  gulp.watch("src/**/*.jpg").on("change",reload);
   gulp.watch("src/**/*.js").on("change",reload);
   gulp.watch("src/**/*.html").on("change",reload);
 });
