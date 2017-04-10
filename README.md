@@ -13,7 +13,7 @@
 > There are no modules in the project. You need to download these modules.
 
 ## Javascript & CSS plugins
-* Flexiblegs.gs
+* Materialize
 * Normalize.css
 * Fancybox
 * Jquery
