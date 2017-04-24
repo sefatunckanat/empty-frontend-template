@@ -28,7 +28,6 @@ gulp.task("watch",["browserSync","sass"],function () {
   gulp.watch("src/**/*.html").on("change",reload);
 });
 
-
 gulp.task("html",function () {
    return gulp.src('src/**/*.html')
        .pipe(gulpCopy('dist/',{prefix:1}))
